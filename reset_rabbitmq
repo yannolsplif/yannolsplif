@@ -1,0 +1,12 @@
+Останавливаем сервис rabbitmq через systemcti, чтобы контейнер не поднялся сам:
+На 3 контролах
+root@YSMatashkov-ctrl-01: systemcti stop kolla-rabbitmq-container.service
+Удаляем мнезию у всех контрол:
+root@YSMatashkov-ctrl-01: rm -rf /var/lib/docker/volumes/rabbitma/_data/mnesia/* 
+(примечание: команду 'rm -г* вводите после введения пути, чтобы случайно не удалить нужное. можно начинать с 'Is', потом вводить нужный путь, и когда уверены, что указали нужный путь - заменить Is на rm -
+rf)
+Запускаем сервис rabbitmq через systemct!, чтобы контейнер не поднялся сам:
+root@YSMatashkov-ctrl-01: systemcti start kolla-rabbitmq-container.service 
+Рестартим сервисы на контроллах(5 мин), которые общаются с rabbitma,
+root@YSMatashkov-ctrl-01: docker ps --format '{{.Names)}' | grep -v -E '(mariadb|rabbit)' | args docker restar
+По необходимости рестартим сервисы  которые общаются с кролем на гипервизорах
