@@ -1,6 +1,19 @@
-<h1 align="center">Aloha, I’m Yan 👋</h1>
+<h1 align="center">🌺 Aloha, I'm Yan! 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=OpenStack+Engineer;DevOps+%26+SRE+enthusiast;Automation+%7C+Python+%7C+Cloud" alt="Typing SVG" />
+</p>
 
-<h2> - 🔭 I’m currently working  OpenStack Engineer  <img src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/2016R/OpenStack-Logo-Mark.svg" height="20"></h2>
-<h2> - 🌱 I’m currently try to learning  Python, Algorithms, DevOps methodoloty and etc <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="20"></h2>
-<h2> - 🤔 I’m looking for help with learning a DevOps/SRE skills</h2>
+<h3 align="left">
+  🔭 I'm currently working as an <strong>OpenStack Engineer</strong>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" width="20" />
+</h3>
+
+<h3 align="left">
+  🌱 I'm currently learning <strong>Python, Algorithms, DevOps methodology</strong>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" />
+</h3>
+
+<h3 align="left">
+  🤔 I’m looking for help with <strong>DevOps / SRE skills</strong>
+</h3>
