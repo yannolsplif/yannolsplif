@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=OpenStack+Engineer;Linux+%7C+Bash+%7C+Ansible;Canonical+MAAS+%26+Metal+as+a+Service;Troubleshooting+is+my+superpower" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=300&lines=OpenStack+Engineer" alt="Typing SVG" />
 </p>
 
 <hr />
