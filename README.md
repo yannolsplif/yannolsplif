@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=OpenStack+Engineer;Linux+%7C+Bash+%7C+Ansible;MAAS+%26+Metal+as+a+Service;Troubleshooting+is+my+superpower" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=OpenStack+Engineer;Linux+%7C+Bash+%7C+Ansible;Canonical+MAAS+%26+Metal+as+a+Service;Troubleshooting+is+my+superpower" alt="Typing SVG" />
 </p>
 
 <hr />
@@ -18,15 +18,15 @@
   </tr>
   <tr>
     <td>🌱 <strong>Currently learning</strong></td>
-    <td>DevOps / SRE methodology, deeper Linux & automation</td>
+    <td>DevOps / SRE methodology, deeper Linux & automation</i></td>
   </tr>
   <tr>
     <td>🤔 <strong>Looking for help with</strong></td>
-    <td>Advanced SRE practices (observability, SLIs/SLOs, chaos engineering)</td>
+    <td>Advanced SRE practices (observability, SLIs/SLOs, chaos engineering)</i></td>
   </tr>
   <tr>
     <td>⚡ <strong>Fun fact</strong></td>
-    <td>I can troubleshoot your OpenStack cluster faster than you can say “nova-compute” 😄</td>
+    <td>I can troubleshoot your OpenStack cluster faster than you say “nova-compute” 😄</i></td>
   </tr>
 </table>
 
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenStack-9C1E8C?style=for-the-badge&logo=openstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAAS-005C9E?style=for-the-badge&logo=canonical&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canonical%20MAAS-77216F?style=for-the-badge&logo=canonical&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge&logo=bugatti&logoColor=white" />
