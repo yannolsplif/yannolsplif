@@ -1,19 +1,23 @@
-<h1 align="center">🌺 Aloha, I'm Yan! 👋</h1>
+<h1 align="center">🌺 Aloha, I'm Yan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=OpenStack+Engineer;DevOps+%26+SRE+enthusiast;Automation+%7C+Python+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/OpenStack%20Engineer-9C1E8C?style=for-the-badge&logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
-<h3 align="left">
-  🔭 I'm currently working as an <strong>OpenStack Engineer</strong>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" width="20" />
-</h3>
+<hr />
 
-<h3 align="left">
-  🌱 I'm currently learning <strong>Python, Algorithms, DevOps methodology</strong>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" />
-</h3>
+- 🔭 **Currently working as** – OpenStack Engineer  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" width="18" />
 
-<h3 align="left">
-  🤔 I’m looking for help with <strong>DevOps / SRE skills</strong>
-</h3>
+- 🌱 **Currently learning** – Python, Algorithms, DevOps methodology  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" />
+
+- 🤔 **Looking for help with** – DevOps / SRE skills
+
+<hr />
+
+<p align="center">
+  <i>"Automate everything, even your resume."</i>
+</p>
