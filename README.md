@@ -45,5 +45,5 @@
 <hr />
 
 <p align="center">
-  <i>“If it's not automated, it's not done.”</i>
+  <i>“One reboot and no problems.”</i>
 </p>
